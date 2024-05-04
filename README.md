@@ -1,1 +1,1 @@
-# Bank-Loan-Data-Analysis
+Explore comprehensive insights into bank loan data with this repository. Utilizing SQL queries and Power BI visualizations, uncover key trends, analyze metrics, and gain actionable insights to inform strategic decision-making. Dive into the world of data analysis and discover the power of storytelling with data
